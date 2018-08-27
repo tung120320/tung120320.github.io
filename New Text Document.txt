@@ -1,2 +1,3 @@
 live sever
 npm run compile:sass
+npm install
